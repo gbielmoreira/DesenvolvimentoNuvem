@@ -2,8 +2,8 @@ Uma aplicação com um CRUD simples de cadastro e buscar de usuarios em um banco
 
 Para rodar a aplicação executar os seguintes comandos após a clonagem do repositorio:
 
-- npm install
+- node server2.js
 
-- npm run dev
+- localhost:3000/usuarios (no google)
 
 Certificar se o node.js está instalado na maquina.
